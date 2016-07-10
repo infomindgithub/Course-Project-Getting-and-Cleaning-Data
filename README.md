@@ -27,3 +27,6 @@ After merging test and train datasets, labels are added. Only columns that perta
 
 ## Output of the R Script
 The run_analysis.R script creates a tidy dataset containing the means (averages) of all the columns per test subject and per activity. This tidy dataset is written to a tab-delimited file "tidy.txt", which is included in this repository.
+
+###Note
+Ignore the file README.rmd. It is duplicate of README.md file but has a typo in the extension (.rmd instead of .md)
